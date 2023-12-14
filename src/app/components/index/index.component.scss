@@ -1,0 +1,85 @@
+.centrar { 
+    margin-top: 5%;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+    border-radius: 15px;
+    padding: 0%;
+    padding-bottom: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+.xd{
+    margin: 0;
+}
+.menuside{
+    width: 200px;
+    background-color: rgb(39, 37, 49);
+    color: rgb(255, 255, 255)!important;
+    font-size: large;
+}
+
+.generos{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.posters{
+    margin: 0 auto;
+    padding-top: 10px;
+    width: 80%;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.descripcion{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+mat-card-header{
+    background-color: rgb(58, 43, 136);
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 15px 15px 0px 0px; 
+    width: 100%;
+}
+
+mat-drawer-content{
+    background-color:rgb(23, 5, 46);
+}
+
+.mat-mdc-raised-button.btMenu{
+    background-color: rgb(58, 43, 136);
+    width: 100%;
+    border-radius: 0px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size:medium;
+}
+
+mat-card-content{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+mat-card-content img{
+    width: 100%; /* Equals the .div-that-contains-image */
+    height: auto;
+}
+
+mat-card-title{
+
+    font-size: auto;
+
+}
+.subtitulo{
+    color: rgb(172, 172, 172);
+    font-size: 20px;
+    
+}
